@@ -14,3 +14,15 @@
 #### Database
 
 * Oracle : http://bit.ly/lbt-oracle
+
+
+# Zatoory Lectures
+
+### About JavaScript
+
+* ZTR-JS001-gulp-basic
+* ZTR-JS002-mean-stack-quick-guide
+
+### About Python
+
+* ZTR-PY001-python-database
