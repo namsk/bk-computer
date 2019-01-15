@@ -21,8 +21,8 @@
 ### About JavaScript
 
 * ZTR-JS001-gulp-basic
-* ZTR-JS002-mean-stack-quick-guide
-* ZTR-JS004-nodejs-quick-guide
+* ZTR-JS002-javascript-quick-guide
+* ZTR-JS003-nodejs-quick-guide
 
 ### About database
 
