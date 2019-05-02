@@ -18,11 +18,16 @@
 
 # Zatoory Lectures
 
+### About Web Frontend
+
+* ZTR-WF001-html-and-css-quick-guide
+
 ### About JavaScript
 
 * ZTR-JS001-gulp-basic
 * ZTR-JS002-javascript-quick-guide
-* ZTR-JS003-nodejs-quick-guide
+* ZTR-JS004-nodejs-quick-guide
+* ZTR-JS005-javascript-working-with-webbrowser
 
 ### About database
 
