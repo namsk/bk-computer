@@ -20,14 +20,16 @@
 
 ### About Web Frontend
 
-* ZTR-WF001-html-and-css-quick-guide
+* HTML and CSS : ZTR-WF001-html-and-css-quick-guide
+* Vue.js : ZTR-WF002-vuejs-basics
 
 ### About JavaScript
 
-* ZTR-JS001-gulp-basic
-* ZTR-JS002-javascript-quick-guide
-* ZTR-JS004-nodejs-quick-guide
-* ZTR-JS005-javascript-working-with-webbrowser
+* GULP : ZTR-JS001-gulp-basic
+* JavaScript Basic : ZTR-JS002-javascript-quick-guide
+* Node.js Basic : ZTR-JS004-nodejs-quick-guide
+* JavaScript with DOM : ZTR-JS005-javascript-working-with-webbrowser
+* Vue.js : ZTR-WF002-vuejs-basics
 
 ### About database
 
