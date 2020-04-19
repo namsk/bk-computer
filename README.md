@@ -18,6 +18,14 @@
 
 # Zatoory Lectures
 
+### Commons
+
+* Programming Study Guide : ZTR-LN001-programming-study-guide
+
+### About Web Backend
+
+* Installing Tomcat on CentOS : ZTR-LN001-programming-study-guide
+
 ### About Web Frontend
 
 * HTML and CSS : ZTR-WF001-html-and-css-quick-guide
