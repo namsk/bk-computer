@@ -6,6 +6,7 @@
 
 * Java : https://bit.ly/lbt-java
 * Python : https://bit.ly/lbt-python
+* R Language : https://bit.ly/lbt-rlang
 
 #### Operating Systems
 
@@ -13,8 +14,7 @@
 
 #### Database
 
-* Oracle : http://bit.ly/lbt-oracle
-
+* Oracle : https://bit.ly/lbt-oracle
 
 # Zatoory Lectures
 
@@ -24,12 +24,16 @@
 
 ### About Web Backend
 
-* Installing Tomcat on CentOS : ZTR-LN001-programming-study-guide
+* Installing Tomcat on CentOS : ZTR-OS001-installing-tomcat-on-centos
 
 ### About Web Frontend
 
 * HTML and CSS : ZTR-WF001-html-and-css-quick-guide
 * Vue.js : ZTR-WF002-vuejs-basics
+
+### About DevTools
+
+* Vagrant : ZTR-DEVTOOLS-001-vagrant-quick-guide
 
 ### About JavaScript
 
