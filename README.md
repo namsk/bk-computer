@@ -1,12 +1,8 @@
 # Basic Knowledge of Computer
 
-### 세부 과목
-
 #### Programming Languages
 
 * Java : https://bit.ly/lbt-java
-* Python : https://bit.ly/lbt-python
-* R Language : https://bit.ly/lbt-rlang
 
 #### Operating Systems
 
@@ -15,6 +11,18 @@
 #### Database
 
 * Oracle : https://bit.ly/lbt-oracle
+
+# Programming Languages
+
+* Python : https://bit.ly/lbt-python
+* R Language : https://bit.ly/lbt-rlang
+
+# Other Lectures
+
+* Data Science : https://bit.ly/lbt-dscience
+* Java Servlet : https://bit.ly/lbt-servlet
+* Spring Framework : https://bit.ly/lbt-spring
+* Android SDK : https://bit.ly/lbt-android
 
 # Zatoory Lectures
 
