@@ -54,6 +54,7 @@
 ### About database
 
 * ZTR-DB001-mongodb-quick-guide
+* ZTR-DB002-redis-quick-guide
 
 ### About Python
 
