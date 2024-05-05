@@ -55,6 +55,7 @@
 
 * ZTR-DB001-mongodb-quick-guide
 * ZTR-DB002-redis-quick-guide
+* ZTR-DB003-database-regularization.pdf
 
 ### About Python
 
